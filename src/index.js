@@ -138,8 +138,8 @@ bot.on('message', async (msg) => {
     
     case '📞 Contact':
       bot.sendMessage(chatId,
-        'Developer: Sunny\n' +
-        'Telegram: @Sunnniiiiiiiiiiii\n\n' +
+        'Developer: xxxxxx\n' +
+        'Telegram: @xxxxxxxx\n\n' +
         'Feel free to reach out for any questions or suggestions!'
       );
       break;
